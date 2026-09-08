@@ -1,0 +1,4 @@
+product_id,product_name,quantity,price,seller_id
+101,Laptop,20,55000.00,1
+102,Keyboard,50,1200.00,2
+103,Mouse,40,700.00,1
